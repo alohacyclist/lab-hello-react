@@ -1,0 +1,38 @@
+.wrapper {
+    background-color: #1d2951;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header > img {
+    margin: 45px;
+}
+
+p {
+    color: white;
+    font-size: 1.5em;
+    line-height: 1.7em;
+}
+
+h1 {
+    font-size: 4em;
+    margin-bottom: 0;
+}
+
+button {
+    font-size: 1.5em;
+    width: 150px;
+    height: 60px;
+    margin: 60px 0;
+}
+
+.topBodyContainer {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    margin: 45px;
+}

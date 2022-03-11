@@ -1,0 +1,30 @@
+.logos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 65px auto;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: darkslategrey;
+    padding: 10px;
+}
+
+.desc {
+    font-size: 0.75;
+    color: darkslategrey;
+    padding: 10px;
+}
+
+.logo-container > img {
+    margin-left: 0px;
+    width: 150px;
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 50px;
+}
